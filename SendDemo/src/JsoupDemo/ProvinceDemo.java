@@ -15,7 +15,7 @@ import org.jsoup.select.Elements;
 import util.DBUtil;
 
 /**
- * @Description:测试
+ * @Description:测试是否可以连接国家行政地区网址
  * @author hansq
  * @create 2017-5-3 下午1:43:18
  */
