@@ -17,6 +17,11 @@ import org.jsoup.select.Elements;
 
 import util.DBUtil;
 
+/**
+ * @Description:解析地区信息测试
+ * @author hansq
+ * @create 2017-5-3 下午2:17:31
+ */
 public class CityDemo {
 	private static String url = "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2015";
 	public static void main(String[] args) throws SQLException {
