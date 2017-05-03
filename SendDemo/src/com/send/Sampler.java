@@ -6,8 +6,9 @@ import com.shcm.send.DataApi;
 import com.shcm.send.OpenApi;
 
 /**
- * @author Chinafish
- *
+ * @Description:短信功能
+ * @author hansq
+ * @create 2017-5-3 下午1:42:12
  */
 public class Sampler
 {

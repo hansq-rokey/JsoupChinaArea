@@ -8,6 +8,11 @@ import org.apache.commons.httpclient.HttpException;
 import org.apache.commons.httpclient.NameValuePair;
 import org.apache.commons.httpclient.methods.PostMethod;
 
+/**
+ * @Description:短信功能
+ * @author hansq
+ * @create 2017-5-3 下午1:42:32
+ */
 public class SendMessage {
 	public static void main(String[] args) throws HttpException, IOException {
 		HttpClient client = new HttpClient();
