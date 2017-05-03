@@ -19,6 +19,11 @@ import org.jsoup.select.Elements;
 
 import util.DBUtil;
 
+/**
+ * @Description:解析直辖市
+ * @author hansq
+ * @create 2017-5-3 下午1:40:53
+ */
 public class SDemo {
 	private static String url = "http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2015/";
 	private static String host = "www.stats.gov.cn";

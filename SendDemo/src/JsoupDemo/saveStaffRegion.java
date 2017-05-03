@@ -12,6 +12,11 @@ import util.DBUtil;
 
 import entity.StaffRegion;
 
+/**
+ * @Description:多张信息表合并成一张表
+ * @author hansq
+ * @create 2017-5-3 下午1:40:27
+ */
 public class saveStaffRegion {
 	
 	public static void main(String[] args) {

@@ -22,6 +22,11 @@ import util.DBUtil;
 
 import entity.StaffRegion;
 
+/**
+ * @Description:根据表数据，生成json格式的地区信息文件
+ * @author hansq
+ * @create 2017-5-3 下午1:39:11
+ */
 public class JsonData {
 	public static void main(String[] args) throws Exception {
 		Map<Object,Object> map = new LinkedHashMap<Object,Object>();
