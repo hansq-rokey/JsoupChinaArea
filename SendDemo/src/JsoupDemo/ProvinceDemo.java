@@ -14,6 +14,11 @@ import org.jsoup.select.Elements;
 
 import util.DBUtil;
 
+/**
+ * @Description:≤‚ ‘
+ * @author hansq
+ * @create 2017-5-3 œ¬ŒÁ1:43:18
+ */
 public class ProvinceDemo {
 	public static void main(String[] args) throws SQLException {
 		Connection conn = null;
