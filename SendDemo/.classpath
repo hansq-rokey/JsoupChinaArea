@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Sun JDK 1.6.0_13"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/com/alibaba/fastjson/1.2.6/fastjson-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/lib/FYOpenApi.jar"/>
+	<classpathentry kind="lib" path="F:/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="F:/lib/mysql-connector-java-5.1.30.jar"/>
+	<classpathentry kind="lib" path="F:/jar/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
